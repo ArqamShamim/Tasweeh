@@ -1,0 +1,4 @@
+storePassword= 457090
+keyPassword= 457090
+keyAlias= tasweehkey
+storeFile= C:/Users/marqa/tasweehkeystore.jks

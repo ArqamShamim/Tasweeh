@@ -1,0 +1,35 @@
+name: tasweeh1
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^9.0.0
+  vibration: ^1.7.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  fonts:
+    - family: Courgette
+      fonts:
+        - asset: fonts/Courgette-Regular.ttf
+    - family: Itim
+      fonts:
+        - asset: fonts/Itim-Regular.ttf
+
+
